@@ -1,0 +1,12 @@
+{
+  "name": "pr_bshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "data:import":"node backend/seepderStore.js -d"
+  },
+  "author": "",
+  "license": "ISC"
+}
